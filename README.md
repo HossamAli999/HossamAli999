@@ -14,7 +14,7 @@
 - 📫 How to reach me: [hossam.anber6@gmail.com](mailto:hossam.anber6@gmail.com).
 - 💬 Ask me about programming.
 <h1>
-![Hossam Ali's github stats](https://github-readme-stats.vercel.app/api?username=HossamAli999&show_icons=true&theme=dark)
+![HossamAli999's github stats](https://github-readme-stats.vercel.app/api?username=HossamAli999&show_icons=true&theme=dark)
 <br />
-![Hossam Ali's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HossamAli999&theme=dark&layout=compact)
+![HossamAli999's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HossamAli999&theme=dark&layout=compact)
 
