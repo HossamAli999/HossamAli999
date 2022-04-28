@@ -11,7 +11,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=HossamAli999.abhisheknaiidu)
 
 <br />
-<p align="left"> <a href="https://github.com/HossamAli999"><img src="https://github-profile-trophy.vercel.app/?username=hossamali999" alt="hossamali999" /></a> </p>
+<p align="left"> <a href="https://github.com/HossamAli999"><img src="https://github-profile-trophy.vercel.app/?username=hossamali999&theme=juicyfresh&no-frame=true" alt="hossamali999" /></a> </p>
 
 <br />
 hi, i'm Hossam Ali, a passionate self-taught full stack web developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
