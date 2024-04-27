@@ -1,4 +1,4 @@
-<code><script src="https://tryhackme.com/badge/2730723"></script></code>
+<code><img src="https://tryhackme-badges.s3.amazonaws.com/hossamali.png" alt="TryHackMe"></code>
 ### hey there 
 \
 <br />
