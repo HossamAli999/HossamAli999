@@ -1,4 +1,4 @@
-<script src="https://tryhackme.com/badge/2730723"></script>
+<code><script src="https://tryhackme.com/badge/2730723"></script></code>
 ### hey there 
 \
 <br />
