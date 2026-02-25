@@ -62,7 +62,7 @@ i focus on clean architecture, secure APIs, and high-quality code while continuo
 
 ### 📊 github stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HossamAli999&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=HossamAli999&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
