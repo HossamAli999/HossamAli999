@@ -226,20 +226,9 @@ I build secure, scalable backend systems — and I like to understand how those 
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Hospital Management Dashboard</h3>
-      <a href="https://github.com/HossamAli999/hospital"><img src="./assets/projects/hospital.jpg" alt="Hospital dashboard" /></a>
-      <p>Hospital admin platform with separate <b>admin</b> and <b>user</b> guards, multi-auth login (Arabic/English) and an analytics dashboard. <a href="https://github.com/HossamAli999/hospital">Repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🙋 Personal Portfolio</h3>
-      <a href="https://hossamali.me"><img src="./assets/projects/portfolio.jpg" alt="Portfolio website" /></a>
-      <p>My personal portfolio: about, resume and contact. <a href="https://hossamali.me">hossamali.me →</a></p>
-    </td>
-  </tr>
-</table>
+### 🙋 Personal Portfolio | [hossamali.me](https://hossamali.me)
+
+<a href="https://hossamali.me"><img src="./assets/projects/portfolio.jpg" alt="Portfolio website" width="100%" /></a>
 
 ---
 
